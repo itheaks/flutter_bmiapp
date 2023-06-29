@@ -1,16 +1,1 @@
-# bmi_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is app created using the help of flutter which helps to determine your BMI and status of your health. Just you have to enter your detail of height and weight then it will reflect your BMI. It changes the background color to show how you are. Go and check this app.
