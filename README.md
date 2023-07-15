@@ -47,8 +47,5 @@ To run the BMI Health Tracker app on your device, follow these steps:
 
 BMI Health Tracker is developed and maintained by Amit Kumar Singh, Student @DSCE Bangalore. We are dedicated to providing a helpful and user-friendly app to assist users in assessing their BMI and monitoring their health.
 
-## Feedback and Support
 
-We appreciate your feedback and suggestions to improve the BMI Health Tracker app. If you encounter any issues or need assistance, please contact our support team at [support@yourcompany.com](mailto:support@yourcompany.com).
-
-Take charge of your health and track your BMI with the BMI Health Tracker app!
+###Take charge of your health and track your BMI with the BMI Health Tracker app!
